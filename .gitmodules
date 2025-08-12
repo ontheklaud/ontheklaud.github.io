@@ -1,0 +1,3 @@
+[submodule "physics-forge"]
+	path = physics-forge
+	url = git@github.com:ontheklaud/physics-forge.git
